@@ -12,7 +12,7 @@ public class main {
       guiForm ourform = new guiForm(listNews.getNewsGroup());
 //      guiForm ourform = new guiForm(list);
 
-        // from,
+        // from, тессттттимпрлаопр
         // subject,
         // newsgroup,
         // filename,
